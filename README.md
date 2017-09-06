@@ -20,10 +20,14 @@ http://openresty.org/cn/dynamic-routing-based-on-redis.html
 
 step 1.下载如下插件
 
-https://codeload.github.com/simpl/ngx_devel_kit/tar.gz/v0.3.0
+https://codeload.github.com/openresty/lua-redis-parser/tar.gz/v0.13
 
 https://codeload.github.com/openresty/lua-nginx-module/tar.gz/v0.10.10
 
+https://codeload.github.com/openresty/redis2-nginx-module/tar.gz/v0.14
 
+https://codeload.github.com/simpl/ngx_devel_kit/tar.gz/v0.3.0
+
+https://codeload.github.com/openresty/set-misc-nginx-module/tar.gz/v0.31
 
 */
