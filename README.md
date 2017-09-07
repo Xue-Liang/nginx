@@ -48,10 +48,15 @@ make
 make install
 
 **实验机器**
+
 #src='/usr/local/src' 
+
 src='/home/xue/programs/nginx' 
+
 #prefix=/usr/local/nginx
+
 prefix=/home/xue/programs/nginx
+
 ./configure --prefix=$prefix --with-http_gzip_static_module --add-module=$src/lua-nginx-module --add-module=$src/ngx_devel_kit --add-module=$src/redis2-nginx-module-0.14 --add-module=$src/set-misc-nginx-module-0.31                              
 
 
