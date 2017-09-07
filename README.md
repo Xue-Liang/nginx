@@ -1,7 +1,6 @@
 # nginx
 
-**一、准备工作
-/**
+**一、准备工作**
 
 step 1.下载lua
 http://www.lua.org/ftp/lua-5.3.4.tar.gz
@@ -29,9 +28,8 @@ https://codeload.github.com/simpl/ngx_devel_kit/tar.gz/v0.3.0
 
 https://codeload.github.com/openresty/set-misc-nginx-module/tar.gz/v0.31
 
-*/
+**二、编译nginx生成nginx可执行文件**
 
-**二、编译nginx生成nginx可执行文件
 #src='/usr/local/src'
 
 src='/home/xue/programs/nginx'
