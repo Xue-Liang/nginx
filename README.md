@@ -23,7 +23,7 @@ make install
 
 http://openresty.org/cn/dynamic-routing-based-on-redis.html
 
-step 1.下载如下插件
+step 1.下载如下模块
 
 https://codeload.github.com/openresty/lua-redis-parser/tar.gz/v0.13
 
