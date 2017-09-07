@@ -32,7 +32,6 @@ https://codeload.github.com/openresty/set-misc-nginx-module/tar.gz/v0.31
 */
 
 **二、编译nginx生成nginx可执行文件
-
 #src='/usr/local/src'
 
 src='/home/xue/programs/nginx'
