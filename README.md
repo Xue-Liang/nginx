@@ -47,7 +47,7 @@ make
 
 make install
 
-**实验机器**
+**三、实验机器**
 
 #src='/usr/local/src' 
 
