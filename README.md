@@ -19,11 +19,19 @@ make install
 
 /**
 
-需要单独安装 lua-redis-parser-0.13
+step 1.下载lua
+http://www.lua.org/ftp/lua-5.3.4.tar.gz
+
+step 1.1 安装 lua,如果发生 readline/readline.h: 没有那个文件或目录 错误,
+
+执行  sudo apt install libreadline-dev
+
+
+step 2.需要单独安装 lua-redis-parser-0.13
 
 http://openresty.org/cn/dynamic-routing-based-on-redis.html
 
-step 1.下载如下模块
+step 3.下载如下模块
 
 https://codeload.github.com/openresty/lua-redis-parser/tar.gz/v0.13
 
